@@ -1,5 +1,12 @@
 site_name: Моя Документация
-theme: readthedocs
+
+theme:
+  name: material
+  language: ru            # Включает русский язык для поиска и интерфейса
+  font:
+    text: Montserrat      # Красивый шрифт для всего текста и заголовков
+    code: Roboto Mono     # Четкий шрифт для кода и системных надписей
+
 nav:
   - Главная: index.md
   - Инструкция: guide.md
