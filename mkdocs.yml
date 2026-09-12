@@ -1,0 +1,5 @@
+site_name: Моя Документация
+theme: readthedocs
+nav:
+  - Главная: index.md
+  - Инструкция: guide.md
